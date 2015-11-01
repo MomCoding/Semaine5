@@ -15,7 +15,7 @@
 /* Header */
 
 header {
-	background-image: url('swirl_pattern/swirl_pattern.png');
+	background-image: url('../images/swirl_pattern.png');
 	background-attachment: fixed;
 	}
 	
@@ -54,7 +54,7 @@ header p {
 /* Main */
 
 main {
-	background-image: url('worn_dots/worn_dots.png');
+	background-image: url('../images/worn_dots.png');
 	background-attachment: fixed;
 	}
 	
@@ -89,7 +89,7 @@ main {
 /* Footer */
 
 footer {
-	background-image: url('dimension/dimension_@2X.png');
+	background-image: url('../images/dimension_@2X.png');
 	background-attachment: fixed;
 	font-size: 0.8em;
 	font-style: italic;
